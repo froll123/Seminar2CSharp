@@ -65,3 +65,4 @@ int dayofweek = Convert.ToInt32(Console.ReadLine());
       {
         Console.WriteLine ("Ошибка: В неделе всего 7 дней!");
       }
+      
